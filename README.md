@@ -17,7 +17,7 @@ This repository provides a Python module for calculating the **Composite F1 Scor
    ```
 2. Navigate to the directory:
    ```bash
-   cd composite-f1-module
+   cd CompositeFScore
    ```
 3. Install dependencies (if any):
    ```bash
