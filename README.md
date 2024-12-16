@@ -28,7 +28,7 @@ This repository provides a Python module for calculating the **Composite F1 Scor
 
 ### 1. Import the Module
 ```python
-from composite_f1_module import composite_f_score, event_wise_recall, pointwise_precision
+from CompositeFScore import composite_f_score, event_wise_recall, pointwise_precision
 ```
 
 ### 2. Input Formats
